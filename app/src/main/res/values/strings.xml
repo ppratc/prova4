@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mis Pelis</string>
+    <string name="cabecera">Results</string>
+    <string name="inicia">Pulsa para Iniciar sin Result</string>
+    <string name="inicia_result">Pulsa para Iniciar con Result</string>
+    <string name="introducedatos">Introduce tus datos</string>
+    <string name="nombre">Nombre</string>
+    <string name="fecha">Fecha</string>
+    <string name="siguiente">Finaliza</string>
+    <string name="retorna">Retorna</string>
+    <string name="visudatos">visu_datos</string>
+
+</resources>
